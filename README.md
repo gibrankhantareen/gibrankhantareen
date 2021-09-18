@@ -1,4 +1,6 @@
-<b>I'm a CS Student & Web Developer</b>
+<b>Hi there I am Gibran Khan Tareen [@gibrankhantareen]</b>
+<br>
+<h3><b>I'm a CS Student & Web Developer</b></h3>
 - 👋 Hi, I’m @gibrankhantareen
 - 🌱 I’m currently learning CS
 - 👀 I’m interested in Python
