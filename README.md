@@ -1,3 +1,4 @@
+<b>I'm a CS Student & Web Developer</b>
 - 👋 Hi, I’m @gibrankhantareen
 - 🌱 I’m currently learning CS
 - 👀 I’m interested in Python
