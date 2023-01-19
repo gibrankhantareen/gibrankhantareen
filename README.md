@@ -1,6 +1,6 @@
 <b>Hi there I am Gibran Khan Tareen [@gibrankhantareen]</b>
 <br>
-<h3><b>I'm a CS Student, a Web Developer, a Data Science & AI Enthusiast</b></h3>
+<h3><b>I'm a Data Science Aspirant, CS Student, Educator, Web Developer, AI Enthusiast</b></h3>
 <hr height="5px" noshade>
 <p>
 - 👋 Hi, I’m @gibrankhantareen<br>
