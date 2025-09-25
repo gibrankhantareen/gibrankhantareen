@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gibran Khan Tareen</h1>
-<h3 align="center">A passionate Software Developer, DevOps, Data Science & AI Enthusiast</h3>
+<h3 align="center">A passionate AI Software Engineer, DevOps, Data Science & AI Enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gibrankhantareen" alt="gibrankhantareen" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://gibrankhantareen.in/](https://gibrankhantareen.in/)
+- 👨‍💻 All of my recent projects are available at [https://gibrankhantareen.in/](https://gibrankhantareen.in/)
 
-- 💬 Ask me about **Software Development, AI, Prompt Engineering, Data Science**
+- 💬 Ask me about **Software Development, AI, Prompt Engineering, LLM, Agentic Coding, Data Science**
 
-- 📫 How to reach me **gibran@thegktweb.com**
+- 📫 How to reach me **gibran@heuristixai.com**
 
 - 📄 Know about my experiences [https://gibrankhantareen.in/](https://gibrankhantareen.in/)
 
